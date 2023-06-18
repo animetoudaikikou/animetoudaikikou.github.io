@@ -4,14 +4,11 @@ title: About
 permalink: /about/
 ---
 
-*Alluvium* is unconsolidated detrital material deposited by a river or stream.
+『アニメ灯台紀行』 (*anime toudai kikou*) translates to something like "anime lighthouse travelogue".
 
-*-ography* is a suffix that indicates a form, or process, of writing or representing.
-<br />
-<br />
-This is a personal blog to set down some thoughts about what I've been reading, watching, listening to, etc. A low-stakes writing outlet for a long-suffering non-writer.
+This blog documents depictions lighthouses in anime and manga, as well as general posts of interest about Japanese lighthouses.
 <br />
 <br />
 The website is hosted on Github and uses a slightly modified version of [Reverie Light](https://github.com/confor/reverie-light).
 
-Contact: alluviography (at) pm.me
+Comments? Suggestions? Tips about lighthouses in anime? Email animetoudaikikou (at) proton.me or message me on [Anilist](https://anilist.co/user/tdbn/).
