@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Japan's Lighthouses
-categories: [general,real lighthouse]
+categories: [general]
 excerpt: <img src="/images/hist1.jpg"><br><br>The depiction of real lighthouses in the second season of <i>Yuru Camp</i> prompted me to look up Japan's history with lighthouses. I thought that the ones shown in the second episode looked remarkably similar to the nineteenth-century brick and stone lighthouses that you can see around the UK. It turns out that's because modern lighthouse construction in Japan was kick-started in the 1870s thanks to the work of a Scottish engineer called Richard Henry Brunton, apparently remembered in Japan as the "Father of Japanese lighthouses".
 ---
 
