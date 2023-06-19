@@ -27,8 +27,8 @@ For locations and lighthouses, I use the most familiar romaji name. This sometim
 5. <a href="">Mind Game</a><br />
 6. <a href="">Moomin (1990)</a><br />
 7. <a href="/penguin-highway/" target=”_blank”>Penguin Highway</a><br />
-8. <a href="/sonny-boy/" target=”_blank”>Sonny Boy<br />
-9. <a href="">Super Cub<br />
+8. <a href="/sonny-boy/" target=”_blank”>Sonny Boy</a><br />
+9. <a href="">Super Cub</a><br />
 
 </details>
 <br />
