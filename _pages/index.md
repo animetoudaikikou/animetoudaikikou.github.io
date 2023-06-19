@@ -17,20 +17,16 @@ For locations and lighthouses, I use the most familiar romaji name. This sometim
 <br />
 
 ## Lighthouses Spotted
-<details>
-<summary><b>Sorted by anime title</b></summary>
-
-1. <a href="">Calm</a><br />
-2. <a href="">Diary of Our Days at the Breakwater</a><br />
-3. <a href="">Insomniacs After School</a><br />
-4. <a href="">Laid Back Camp</a><br />
-5. <a href="">Mind Game</a><br />
-6. <a href="">Moomin (1990)</a><br />
-7. <a href="https://animetoudaikikou.github.io/penguin-highway/" target=”_blank”>Penguin Highway</a><br />
-8. <a href="https://animetoudaikikou.github.io/sonny-boy/" target=”_blank”>Sonny Boy</a><br />
-9. <a href="">Super Cub</a><br />
-
-</details>
+### Anime
+1. [Calm]()
+2. [Diary of Our Days at the Breakwater]()
+3. [Insomniacs After School]()
+4. [Laid Back Camp S02]()
+5. [Mind Game]()
+6. [Moomin (1990)]()
+7. [Penguin Highway](/penguin-highway)
+8. [Sonny Boy](/sonny-boy/)
+9. [Super Cub]()
 <br />
 
 ### Manga
