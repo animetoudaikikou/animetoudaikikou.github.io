@@ -6,10 +6,12 @@ permalink: /index/
 
 ## General Posts
 1. [Japan's Lighthouses](/Japans-Lighthouses)
-2. [Bruton and Saruku-chan]()
+2. [Review of <i>The Japan Lights</i> by Iain Maloney]()
+3. [Brunton and Saruku-chan]()
 <br />
 
-## Anime
+## Lighthouses Spotted
+### Anime
 1. [Sonny Boy](/sonny-boy/)
 2. [Penguin Highway](/penguin-highway)
 3. [Calm]()
@@ -21,7 +23,7 @@ permalink: /index/
 9. [Mind Game]()
 <br />
 
-## Manga
+### Manga
 1. [And Yet the Town Moves](/soremachi/)
 2. [Ashizuri Suizokukan](/ashizuri-suizokukan/)
 <br />
