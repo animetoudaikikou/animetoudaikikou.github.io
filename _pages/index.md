@@ -17,7 +17,9 @@ For locations and lighthouses, I use the most familiar romaji name. This sometim
 <br />
 
 ## Lighthouses Spotted
-### Anime
+<details>
+<summary><b>Sorted by anime title</b></summary>
+
 1. [Calm]()
 2. [Diary of Our Days at the Breakwater]()
 3. [Insomniacs After School]()
@@ -27,6 +29,8 @@ For locations and lighthouses, I use the most familiar romaji name. This sometim
 7. [Penguin Highway](/penguin-highway)
 8. [Sonny Boy](/sonny-boy/)
 9. [Super Cub]()
+
+</details>
 <br />
 
 ### Manga
