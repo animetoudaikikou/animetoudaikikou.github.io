@@ -8,11 +8,11 @@ excerpt: <img src="/images/yurucamp4.jpg">
 <img src="/images/yurucamp1.jpg">
 <br />
 __Anime__: _Laid Back Camp_ (ゆるキャン△) - Season 2 (2021)<br />
-__Locations__: Shizuoka Prefecture (静岡県)<br />
-__Names__: [Omaesaki](https://en.wikipedia.org/wiki/Omaesaki_Lighthouse){:target="_blank"} ([御前埼灯台](https://lighthouse-japan.com/shizuoka/omaesaki/omaesaki.html){:target="_blank"}), Kaketsuka ([掛塚灯台](https://lighthouse-japan.com/shizuoka/kakezuka/kakezuka.html){:target="_blank"}), Tsumekizaki ([爪木埼灯台](https://lighthouse-japan.com/shizuoka/tsumekisaki/tsumekisaki.html){:target="_blank"}), Heda ([戸田灯台](https://lighthouse-japan.com/shizuoka/heda/heda.html){:target="_blank"})
+__Location__: Shizuoka Prefecture (静岡県)<br />
+__Lighthouses__: [Omaesaki](https://en.wikipedia.org/wiki/Omaesaki_Lighthouse){:target="_blank"} ([御前埼灯台](https://lighthouse-japan.com/shizuoka/omaesaki/omaesaki.html){:target="_blank"}), Kaketsuka ([掛塚灯台](https://lighthouse-japan.com/shizuoka/kakezuka/kakezuka.html){:target="_blank"}), Tsumekizaki ([爪木埼灯台](https://lighthouse-japan.com/shizuoka/tsumekisaki/tsumekisaki.html){:target="_blank"}), Heda ([戸田灯台](https://lighthouse-japan.com/shizuoka/heda/heda.html){:target="_blank"})
 <br />
 <br />
-_Laid Back Camp_ season 2 features no less than four different lighthouses, all taken from real locations in Shizuoka Prefecture. The first, pictured above, is Omaesaki lighthouse [[Google Maps location](https://goo.gl/maps/ddzEosFCjFHm96Wj7){:target="_blank"}]. Omaesaki is relatively well-known among as one of the lighthouses built by [Richard Henry Brunton](/Japans-Lighthouses){:target="_blank"} in the 1870s.
+_Laid Back Camp_ season 2 features no less than four different lighthouses, all taken from real locations in Shizuoka Prefecture. The first, pictured above, is Omaesaki lighthouse [[Google Maps location](https://goo.gl/maps/ddzEosFCjFHm96Wj7){:target="_blank"}]. Omaesaki is relatively well-known as one of the lighthouses built by [Richard Henry Brunton](/Japans-Lighthouses){:target="_blank"} in the 1870s.
 <br />
 <br />
 [ <img src="/images/omaesaki1.jpg"> ](https://commons.wikimedia.org/wiki/File:Omae_zaki_Hinode_1_20181201.jpg){:target="_blank"}
@@ -31,8 +31,7 @@ The third lighthouse, below, is Tsumekizaki [[Google Maps location](https://goo.
 <br />
 <img src="/images/tsumekizaki1.jpg">
 <br />
-<br />
-The final lighthouse, Heda on Mihamazaki [[Google Maps location](https://goo.gl/maps/P2gic4nwpZVcn6Le9){:target="_blank"}], is rather interesting.
+The final one, Heda lighthouse on Mihamazaki [[Google Maps location](https://goo.gl/maps/P2gic4nwpZVcn6Le9){:target="_blank"}], is rather interesting.
 <br />
 <br />
 <img src="/images/yurucamp6.jpg">
@@ -46,6 +45,7 @@ We only catch a distant glimpse of it in the episode, but this modern lighthouse
 <br />
 <br />
 <i>Laid Back Camp</i> is known for its depiction of real locations around Japan and this season ended up being a treat for spotting lighthouses.
+<br />
 <br />
 <img src="/images/yurucamp7.jpg">
 <br />
