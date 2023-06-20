@@ -11,7 +11,7 @@ permalink: /index/
 <br />
 
 ## Lighthouses Spotted
-#### by anime/manga title
+#### by anime/manga title:
 1. [And Yet the Town Moves](/soremachi/)
 2. [Ashizuri Suizokukan](/ashizuri-suizokukan/)
 1. [Calm]()
@@ -25,7 +25,7 @@ permalink: /index/
 9. [Super Cub]()
 <br />
 
-#### by lighthouse name
+#### by lighthouse name:
 1. Enoshima Sea Candle: [Super Cub]()
 1. Iojimazaki: [Brunton and Saruku-chan]()
 1. Kaketsuka: [Laid Back Camp]()
@@ -34,11 +34,11 @@ permalink: /index/
 1. Rokkosaki: [Insomniacs After School]()
 1. Sashiki West Breakwater: [Diary of Our Days at the Breakwater]()
 1. Satamisaki: [Super Cub]()
-1. Tsumekizaki: : [Laid Back Camp]()
+1. Tsumekizaki: [Laid Back Camp]()
 <br />
 
-#### known but unlogged lighthouses
-- Junji Ito (*Uzumaki*, *The Lighthouse*)
+#### known but unlogged lighthouses:
+- Junji Ito (Uzumaki, The Lighthouse)
 - Golden Kamuy ([episode 31](https://twitter.com/kamuy_anime/status/1455014232370544643))
 - I Want to Deliver Your Voice (Enoshima Sea Candle + red breakwater lighthouse (?))
 - IRODUKU: The World in Colors (Iojimazaki)
