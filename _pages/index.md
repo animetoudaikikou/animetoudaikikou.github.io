@@ -7,7 +7,7 @@ permalink: /index/
 ## General Posts
 1. [Japan's Lighthouses](/Japans-Lighthouses){:target="_blank"} (start here)
 2. [Review of <i>The Japan Lights</i> by Iain Maloney]()
-3. [Brunton and Saruku-chan]()
+3. [Brunton and Saruku-chan](/brunton-and-saruku-chan){:target="_blank"}
 <br />
 
 ## Lighthouses Spotted
@@ -38,12 +38,15 @@ permalink: /index/
 <br />
 
 #### Known but unlogged lighthouses:
-- Junji Ito (Uzumaki, The Lighthouse)
+- Akari no Moribito
 - Golden Kamuy ([episode 31](https://twitter.com/kamuy_anime/status/1455014232370544643){:target="_blank"})
 - I Want to Deliver Your Voice (Enoshima Sea Candle + red breakwater lighthouse (?))
 - IRODUKU: The World in Colors (Iojimazaki)
+- Junji Ito (Uzumaki, The Lighthouse)
+- Kiki's Delivery Service (breakwater lighthouse) and Ponyo
+- Pokemon ([episode 13 - Mystery at the Lighthouse](https://bulbapedia.bulbagarden.net/wiki/EP013){:target="_blank"})
 - Rascal Does Not Dream of Bunny Girl Senpai (Enoshima Sea Candle)
-- Akari no Moribito
+- Wan Wan Chushingura ([Youtube](https://youtu.be/SF43Rgqba8Q?t=2760){:target="_blank"})
 <br />
 <br />
 
