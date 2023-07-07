@@ -13,9 +13,9 @@ One of Saruku-chan's jobs is to feature on information signage. Some of the sign
 
 ![Saruku-chan](/images/saruku3.jpg)
 
-As everybody knows, the hottest cultural property in any area lucky enough to have one is a historic lighthouse. Nagasaki prefecture is no exception, and its tourism board have duly set a route that includes [Iojima](https://en.wikipedia.org/wiki/Iojimazaki_Lighthouse){:target="_blank"}, a lighthouse designed by Brunton with construction starting 1869. It’s apparently also the lighthouse that [features](https://files.catbox.moe/24ihqf.jpg){:target="_blank"} in the anime series [_IRODUKU: The World in Colors_](https://anilist.co/anime/101316/Irozuku-Sekai-no-Ashita-kara){:target="_blank"} (see, I told you that this was tangentially anime-related). 
+As everybody knows, the hottest cultural property in any area lucky enough to have one is a historic lighthouse. Nagasaki prefecture is no exception, and its tourism board have duly set a route that includes [Iojima](https://en.wikipedia.org/wiki/Iojimazaki_Lighthouse){:target="_blank"}, a lighthouse designed by Brunton with construction starting 1869. (See also: my [introduction post](/Japans-Lighthouses){:target="_blank"} about Brunton.) It’s apparently also the lighthouse that [features](https://files.catbox.moe/24ihqf.jpg){:target="_blank"} in the anime series [_IRODUKU: The World in Colors_](https://anilist.co/anime/101316/Irozuku-Sekai-no-Ashita-kara){:target="_blank"} (see, I told you that this was tangentially anime-related). 
 
-However, the best thing about the route is that, on one of the information discs, Saruku-chan appears next to Iojima lighthouse in the guise of the big man himself, the "Father of Japanese lighthouses": Richard Henry Brunton. (See also: my [introduction post](/Japans-Lighthouses){:target="_blank"} about Brunton.)
+However, the best thing about the route is that, on one of the information discs, Saruku-chan appears next to Iojima lighthouse in the guise of the big man himself, the "Father of Japanese lighthouses": Richard Henry Brunton.
 
 ![Saruku-chan](/images/saruku4.jpg)
 [_QR code link_](https://www.at-nagasaki.jp/spot/395){:target="_blank"}

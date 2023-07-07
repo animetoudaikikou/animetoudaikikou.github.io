@@ -19,4 +19,4 @@ I’ve hardly mentioned lighthouses so far in this review, and that fact points 
 
 Regardless of that limitation, this is still a thoroughly entertaining and enlightening book. In fact, depending on the direction from which you're approaching the book, it may not even seem like a limitation. (I understand that not everybody is interested in obscure technical details about lighthouses. Although I can't understand _why_ that is.) I would certainly recommend it if you are interested in the Meiji period and modern Japanese history, the experience of contemporary foreign residents in Japan or, of course, lighthouses.
 
-You can purchase the book directly from the publisher [here](https://tippermuirbooks.co.uk/product/the-japan-lights/).
+You can purchase the book directly from the publisher [here](https://tippermuirbooks.co.uk/product/the-japan-lights/){:target="_blank"}.
