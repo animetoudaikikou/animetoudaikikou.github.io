@@ -6,7 +6,7 @@ permalink: /index/
 
 ## General Posts
 1. [Japan's Lighthouses](/Japans-Lighthouses){:target="_blank"} (start here)
-2. [Review of <i>The Japan Lights</i> by Iain Maloney]()
+2. [Review of <i>The Japan Lights</i> by Iain Maloney](/review-of-the-japan-lights){:target="_blank"}
 3. [Brunton and Saruku-chan](/brunton-and-saruku-chan){:target="_blank"}
 <br />
 
